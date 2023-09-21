@@ -18,7 +18,7 @@ Gra "Znajdź Klucz" jest prostą grą tekstową napisaną w języku Python. Cele
 2. Pobierz plik z kodem źródłowym gry.
 3. Otwórz terminal lub wiersz polecenia.
 4. Przejdź do katalogu, w którym znajduje się plik z kodem gry.
-5. Uruchom grę, wpisując `python nazwa_pliku.py` w terminalu, gdzie `nazwa_pliku.py` to nazwa pliku z kodem źródłowym.
+5. Uruchom grę, wpisując `python main.py` w terminalu, gdzie `mainu.py` to nazwa pliku z kodem źródłowym.
 
 
 // TODO
